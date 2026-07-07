@@ -4,7 +4,7 @@
 This project provides a comprehensive analysis of oil and gas production data, combining robust SQL-based data extraction with a visual dashboard to monitor field health, well performance, and economic limits. It is designed to bridge technical computing with reservoir engineering, providing actionable insights for production optimization and diagnostic analysis.
 
 ## Dashboard: Field Production Monitor
-![Field Production Monitor](Dashboard.jpg)
+![Field Production Monitor](Dashboard.png)
 
 The interactive dashboard visualizes key performance indicators (KPIs) and production trends between 2007 and 2016. Key metrics include:
 * **Total Oil Produced**: 10.04M m³
